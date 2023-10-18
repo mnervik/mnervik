@@ -5,4 +5,4 @@
 <!-- Legg til teknologier -->
 
 ## Stats
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=mnervik&layout=donut)]
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=mnervik&layout=donut)
